@@ -11,5 +11,8 @@
 4.Flow of the program<br>
 5.Flowcharts<br>
 6.Pseudocode<br>
+7.Introduction to Java<br>
+8.Introduction How it works<br>
+9.Setup Installation<br>
  
 </h2>
