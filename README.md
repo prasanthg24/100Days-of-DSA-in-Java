@@ -1,2 +1,15 @@
-# 100Days-of-DSA-in-Java
-100 Days of DSA in Java
+# 100Days-of-DSA-in-Java With kunal-kushwaha
+
+
+
+<h1> Day - 1</h1>
+<h3>05/01/2022</h3>
+<h2> 
+1.Introduction to Programming <br>
+2.Types of languages<br>
+3.Memory management<br>
+4.Flow of the program<br>
+5.Flowcharts<br>
+6.Pseudocode<br>
+ 
+</h2>
