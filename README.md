@@ -15,7 +15,20 @@
 8.Introduction How it works<br>
 9.Setup Installation<br>
  
-Day - 2
-
-Due to some personal reasons I didn't continue Dsa
 </h2>
+
+<h1>Day - 2</h1>
+<h2>
+1.writing Frist java code 
+2.converting .java to .class
+3.Public static void main - psvm Explanation
+4.Packages
+5.System.out.println - sout
+6.Primitive Data Types
+7.Input Output in Java Scanner Class
+8.Int , Float ,Strings , Input ,Type conversion 
+9.TypeCasting
+10.if,else,while,for
+
+</h2>
+ 
