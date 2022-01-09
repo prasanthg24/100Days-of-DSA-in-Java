@@ -49,6 +49,7 @@
  <h1>Day - 4</h1>
 <h3>09/01/2022</h3>
 <h2>
-1.Cconditional statement 
+1.Conditional statement 
+
 </h2>
 
