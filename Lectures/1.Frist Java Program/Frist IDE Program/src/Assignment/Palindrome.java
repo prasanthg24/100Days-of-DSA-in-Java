@@ -1,31 +1,32 @@
-
-
 package Assignment;
 
 import java.util.Scanner;
 
 public class Palindrome {
-    
+
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number to palindrome  = ");
         int n = input.nextInt();
-        int temp = n;
-        int m;
-        for(m = 0; n > 0; n /= 10) {
-            int rem = n % 10;
-            m = m * 10 + rem;
+        int temp = n ,sum = 0 ,rem;
+
+        while ( n > 0)
+        {
+            rem = n%10;
+            sum = sum*10 +rem;
+            n= n /10;
+
         }
 
-        if (temp == m)
-	
+        if (temp == sum)
+
         {
             System.out.println("Palindrome");
         }
-	else 
-	{
+        else
+        {
             System.out.println("Not a Palindrome");
         }
-    
-}}
+
+    }}
