@@ -53,18 +53,17 @@
 <h1>Day - 4</h1>
 <h3>09/01/2022</h3>
 <h2>
-1.Conditionals & Loops in Java
+1.Conditionals & Loops in Java DSA video
 
 
 </h2>
 
-<<<<<<< HEAD
 
 <h1>Day - 5</h1>
 <h3>10/01/2022</h3>
 <h2>
 1.if-else<br>
-2.loops<br>
+2.loops DSA Video Completed <br>
 
 Conditional & Loops Assignment <br>
 
@@ -85,7 +84,7 @@ Perimeter Of Rectangle<br>
 <h1>Day - 6</h1>
 <h3>11/01/2022</h3>
 <h2>
-1.Solved All Conditional and Loops Basic Java Programs
+1.Solved All Conditional and Loops Basic Java Programs<br>
 
 Perimeter Of Square<br>
 Perimeter Of Rhombus<br>
@@ -102,25 +101,12 @@ Input a number and print all the factors of that number (use loops).<br>
 Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)<br>
 Take integer inputs till the user enters 0 and print the largest number from all.<br>
 
-<h1>Intermediate Java Programs</h1>
+<b>Intermediate Java Programs</b>
 Factorial Program In Java
-=======
-</h2>
- <h1>Day - 5</h1>
-<h3>10/01/2022</h3>
-<h2>
-1.Conditional statement Video completed
-2.Completed Assignment 1
->>>>>>> 87afdb19570f78fd2d991ab9278f7b065f4a2991
-
 </h2>
 
-
-
-<<<<<<< HEAD
 <h1> Day - 7 </h1>
 <h3> 12 / 01/ 2022 </h3>
 <h2>
 </h2>
-=======
->>>>>>> 87afdb19570f78fd2d991ab9278f7b065f4a2991
+
