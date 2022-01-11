@@ -58,6 +58,7 @@
 
 </h2>
 
+<<<<<<< HEAD
 
 <h1>Day - 5</h1>
 <h3>10/01/2022</h3>
@@ -103,12 +104,23 @@ Take integer inputs till the user enters 0 and print the largest number from all
 
 <h1>Intermediate Java Programs</h1>
 Factorial Program In Java
+=======
+</h2>
+ <h1>Day - 5</h1>
+<h3>10/01/2022</h3>
+<h2>
+1.Conditional statement Video completed
+2.Completed Assignment 1
+>>>>>>> 87afdb19570f78fd2d991ab9278f7b065f4a2991
 
 </h2>
 
 
 
+<<<<<<< HEAD
 <h1> Day - 7 </h1>
 <h3> 12 / 01/ 2022 </h3>
 <h2>
 </h2>
+=======
+>>>>>>> 87afdb19570f78fd2d991ab9278f7b065f4a2991
