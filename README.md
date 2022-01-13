@@ -108,6 +108,9 @@ Factorial Program In Java
 <h1> Day - 7 </h1>
 <h3> 12 / 01/ 2022 </h3>
 <h2>
+Solved Electricity Bill Problem <br>
+Average of Nth number<br>
+
 </h2>
 
 <h1> Day - 8 </h1>
