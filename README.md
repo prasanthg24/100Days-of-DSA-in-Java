@@ -110,3 +110,9 @@ Factorial Program In Java
 <h2>
 </h2>
 
+<h1> Day - 8 </h1>
+<h3> 13 / 01/ 2022 </h3>
+<h2>
+Sum of Nth  Number <br>
+
+</h2>
