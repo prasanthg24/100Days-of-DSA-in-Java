@@ -119,3 +119,13 @@ Average of Nth number<br>
 Sum of Nth  Number <br>
 
 </h2>
+
+<h1> Day -  9</h1>
+<h3> 14 / 01/ 2022 </h3>
+<h2>
+Calculate Discount Of Product<br>
+Calculate Distance Between Two Points<br>
+Calculate Commission Percentage<br>
+Power In Java<br>
+
+</h2>
