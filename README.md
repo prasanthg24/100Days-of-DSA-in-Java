@@ -129,3 +129,9 @@ Calculate Commission Percentage<br>
 Power In Java<br>
 
 </h2>
+
+<h1> Day -  10</h1>
+<h3> 15 / 01/ 2022 </h3>
+<h2>
+Calculate Depreciation of Value<br>
+</h2>
