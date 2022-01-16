@@ -135,3 +135,20 @@ Power In Java<br>
 <h2>
 Calculate Depreciation of Value<br>
 </h2>
+
+<h1> Day -  11</h1>
+<h3> 16 / 01/ 2022 </h3>
+<h2>
+Calculate Batting Average
+Calculate CGPA Java Program
+Compound Interest Java Program
+Calculate Average Marks
+Addition Of Two Numbers
+Sum Of N Numbers
+Armstrong Number In Java
+Find Ncr & Npr
+Reverse A String In Java
+Find if a number is palindrome or not
+Future Investment Value
+Java Program Vowel Or Consonant<br>
+</h2>
