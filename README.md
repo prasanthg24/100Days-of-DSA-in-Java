@@ -139,16 +139,16 @@ Calculate Depreciation of Value<br>
 <h1> Day -  11</h1>
 <h3> 16 / 01/ 2022 </h3>
 <h2>
-Calculate Batting Average
-Calculate CGPA Java Program
-Compound Interest Java Program
-Calculate Average Marks
-Addition Of Two Numbers
-Sum Of N Numbers
-Armstrong Number In Java
-Find Ncr & Npr
-Reverse A String In Java
-Find if a number is palindrome or not
-Future Investment Value
+Calculate Batting Average<br>
+Calculate CGPA Java Program<br>
+Compound Interest Java Program<br>
+Calculate Average Marks<br>
+Addition Of Two Numbers<br>
+Sum Of N Numbers<br>
+Armstrong Number In Java<br>
+Find Ncr & Npr<br>
+Reverse A String In Java<br>
+Find if a number is palindrome or not<br>
+Future Investment Value<br>
 Java Program Vowel Or Consonant<br>
 </h2>
