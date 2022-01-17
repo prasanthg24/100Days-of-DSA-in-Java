@@ -152,3 +152,8 @@ Find if a number is palindrome or not<br>
 Future Investment Value<br>
 Java Program Vowel Or Consonant<br>
 </h2>
+
+<h3> 16 / 01/ 2022 </h3>
+<h2>
+unable to code today due to some work <br>
+</h2>
