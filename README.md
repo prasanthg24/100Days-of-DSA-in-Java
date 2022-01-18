@@ -153,7 +153,7 @@ Future Investment Value<br>
 Java Program Vowel Or Consonant<br>
 </h2>
 
-h1> Day -  12</h1>
+<h1> Day -  12</h1>
 <h3> 18 / 01/ 2022 </h3>
 <h2>
 HCF Of Two Numbers Program<br>
