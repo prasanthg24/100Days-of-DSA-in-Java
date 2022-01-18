@@ -153,7 +153,14 @@ Future Investment Value<br>
 Java Program Vowel Or Consonant<br>
 </h2>
 
-<h3> 16 / 01/ 2022 </h3>
+h1> Day -  12</h1>
+<h3> 18 / 01/ 2022 </h3>
 <h2>
-unable to code today due to some work <br>
+HCF Of Two Numbers Program<br>
+LCM Of Two Numbers<br>
+Perfect Number In Java<br>
+Check Leap Year Or Not<br>
+Prasanth is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. <br>
+The list terminates when the user enters a zero.<br>
 </h2>
