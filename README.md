@@ -164,3 +164,10 @@ Prasanth is allowed to go out with his friends only on the even days of a given 
 Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. <br>
 The list terminates when the user enters a zero.<br>
 </h2>
+
+
+<h1> Day -  13</h1>
+<h3> 19 / 01/ 2022 </h3>
+<h2>
+due to work not studied Dsa<br>
+</h2>
