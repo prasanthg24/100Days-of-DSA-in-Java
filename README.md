@@ -167,7 +167,7 @@ The list terminates when the user enters a zero.<br>
 
 
 <h1> Day -  13</h1>
-<h3> 19 / 01/ 2022 </h3>
+<h3> 20 / 01/ 2022 </h3>
 <h2>
-due to work not studied Dsa<br>
+Switch Statement Video Completed in DSA with Kunal<br>
 </h2>
