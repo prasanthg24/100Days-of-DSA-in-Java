@@ -171,3 +171,8 @@ The list terminates when the user enters a zero.<br>
 <h2>
 Switch Statement Video Completed in DSA with Kunal<br>
 </h2>
+<h1> Day -  14</h1>
+<h3> 21 / 01/ 2022 </h3>
+<h2>
+Funtions / Methods video in DSA with Kunal<br>
+</h2>
