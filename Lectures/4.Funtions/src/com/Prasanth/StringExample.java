@@ -1,10 +1,24 @@
 package com.Prasanth;
 
+import java.util.Scanner;
+
 public class StringExample {
     public static void main(String[] args) {
-        String message = greet();
-        System.out.println( " Mesage = " + message);
+//        String message = greet();
+//        System.out.println( " Mesage = " + message);
+
+        Scanner input = new Scanner(System.in);
+        System.out.print("Enter Your name = ");
+        String name = input.next();
+        String personalized = myGreet(name);
+        System.out.println( personalized);
     }
+
+   static String myGreet(String name) {
+        String message = " Hello " + name;
+        return  message;
+    }
+
     static  String  greet()
     {
         String greeting = " How are You ?";

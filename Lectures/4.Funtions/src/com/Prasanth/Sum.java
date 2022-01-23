@@ -5,12 +5,15 @@ import java.util.Scanner;
 
 public class Sum {
 
-    public static void main(String[] args) {
-//
+    public static void main(String[] args)
+    {
+
 //    int ans = sum2();
 //        System.out.println( " Sum = " + ans);
-//
-//    }
+        int ans = sum3(20,10);
+        System.out.println( " Answer = " + ans);
+
+   }
 //    /*
 //     access modifier
 

@@ -177,7 +177,9 @@ Switch Statement Video Completed in DSA with Kunal<br>
 Funtions / Methods video in DSA with Kunal<br>
 </h2>
 <h1> Day -  15</h1>
-<h3>  / 01/ 2022 </h3>
+<h3> 23 / 01/ 2022 </h3>
 <h2>
-Funtions / Methods video in DSA with Kunal<br>
+Funtions / Methods video  Completed in DSA with Kunal<br>
+Assignment <br>
+1.Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user. <br>
 </h2>
