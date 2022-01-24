@@ -188,18 +188,16 @@ Assignment <br>
 <h3> 24 / 01/ 2022 </h3>
 <h2>
 Define a program to find out whether a given number is even or odd.<br>
-
 A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.<br>
-
 Write a program to print the sum of two numbers entered by user by defining your own method.<br>
-
 Define a method that returns the product of two numbers entered by user.<br>
-
 Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.<br>
-
 Define a method to find out if a number is prime or not.<br>
-
 Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:<br>
-
 Write a program to print the factorial of a number by defining a method named 'Factorial'. Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n   <br>
+Write a function to find if a number is a palindrome or not. Take number as parameter.<br>
+Write a function that returns all prime numbers between two given numbers.<br>
+Write a function that returns the sum of first n natural numbers.<br>
+
+
 </h2>
