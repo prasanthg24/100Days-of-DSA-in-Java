@@ -201,3 +201,10 @@ Assignment <br>
 
 
 </h2>
+
+<h1> Day - 17 </h1>
+<h3> 12 / 01/ 2022 </h3>
+<h2>
+Write a function to check if a given triplet is a Pythagorean triplet or not. <br>
+
+</h2>
