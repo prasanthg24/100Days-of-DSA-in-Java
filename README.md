@@ -210,4 +210,3 @@ Write a function to check if a given triplet is a Pythagorean triplet or not. <b
 </h2>
 
 
-Break
