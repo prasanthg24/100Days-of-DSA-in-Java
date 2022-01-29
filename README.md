@@ -203,10 +203,24 @@ Assignment <br>
 </h2>
 
 <h1> Day - 17 </h1>
-<h3> 12 / 01/ 2022 </h3>
+<h3> 15 / 01/ 2022 </h3>
 <h2>
 Write a function to check if a given triplet is a Pythagorean triplet or not. <br>
 
 </h2>
 
 
+
+
+<h1> Day - 18 </h1>
+<h3> 29 / 01/ 2022 </h3>
+<h2>
+Introduction To Arrays <br>
+Why we need Arrays?<br>
+What is an Array?<br>
+Syntax of an Array<br>
+Direct hit Program : Store 5 Roll Numbers<br>
+How does Array works?<br>
+Internal Working of an Array<br>
+Dynamic Memory Allocation<br>
+</h2>
