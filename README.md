@@ -224,3 +224,33 @@ How does Array works?<br>
 Internal Working of an Array<br>
 Dynamic Memory Allocation<br>
 </h2>
+
+<h1> Day - 19 </h1>
+<h3> 30/01/2022</h3>
+<h2>
+Internal Representation of Array<br>
+ Continuity of an Array<br>
+ Index of an Array<br>
+ String Array<br>
+ What is null in Java?<br>
+ null is used as a default<br>
+ Array Input<br>
+ for-each loop<br>
+ toString() Method<br>
+ Array of Objects<br>
+ Storage of Objects in Heap<br>
+ Array Passing in Function<br>
+ Multidimensional Arrays<br>
+ Syntax of a 2D Array<br>
+ Internal Working of a 2D Array<br>
+ 2D Array Input<br>
+ 2D Array Output<br>
+ Dynamic Arrays<br>
+ Array Functions<br>
+ Internal Working of ArrayList<br>
+ Q1 : Swaping Values in an Array<br>
+ Q2 : Maximum Value of an Array<br>
+ Q3 : Reversing an Array<br>
+ <h3> ASsignment </h3>
+ 1. Two Sum <br>
+</h2>
