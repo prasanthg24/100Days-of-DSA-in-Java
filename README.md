@@ -251,6 +251,6 @@ Internal Representation of Array<br>
  Q1 : Swaping Values in an Array<br>
  Q2 : Maximum Value of an Array<br>
  Q3 : Reversing an Array<br>
- <h3> ASsignment </h3>
+ <h3> Assignment </h3>
  1. Two Sum <br>
 </h2>
