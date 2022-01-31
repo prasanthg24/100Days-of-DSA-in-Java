@@ -254,3 +254,16 @@ Internal Representation of Array<br>
  <h3> Assignment </h3>
  1. Two Sum <br>
 </h2>
+
+
+
+<h1> Day - 20 </h1>
+<h3> 31/01/2022 </h3>
+<h2>
+Assignment <br>
+1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+3. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+4. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+
+</h2>
