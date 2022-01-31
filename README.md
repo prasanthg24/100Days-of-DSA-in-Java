@@ -261,9 +261,9 @@ Internal Representation of Array<br>
 <h3> 31/01/2022 </h3>
 <h2>
 Assignment <br>
-1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
-2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-3. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-4. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)<br>
+2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)<br>
+3. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)<br>
+4. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)<br>
 
 </h2>
