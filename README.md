@@ -267,3 +267,11 @@ Assignment <br>
 4. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)<br>
 
 </h2>
+
+h1> Day - 21 </h1>
+<h3> 01/02/2022 </h3>
+<h2>
+Assignment <br>
+1. How Many Numbers Are Smaller Than the Current Number<br>
+2. Number of Good Pairs
+</h2>
