@@ -275,3 +275,6 @@ Assignment <br>
 1. How Many Numbers Are Smaller Than the Current Number<br>
 2. Number of Good Pairs
 </h2>
+
+
+break
