@@ -276,5 +276,5 @@ Assignment <br>
 2. Number of Good Pairs
 </h2>
 
-.............
+....
 
