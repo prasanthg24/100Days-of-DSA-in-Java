@@ -275,3 +275,13 @@ Assignment <br>
 1. How Many Numbers Are Smaller Than the Current Number<br>
 2. Number of Good Pairs
 </h2>
+
+
+h1> Day - 22 </h1>
+<h3> 05/02/2022 </h3>
+<h2>
+Assignment <br>
+1. Create Target Array in the Given Order
+2. Check if the Sentence Is Pangram
+3.
+</h2>
