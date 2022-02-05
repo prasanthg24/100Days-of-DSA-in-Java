@@ -282,8 +282,8 @@ Assignment <br>
 <h3> 05/02/2022 </h3>
 <h2>
 Assignment <br>
-1. Create Target Array in the Given Order
+1. Create Target Array in the Given Order <br>
 2. Check if the Sentence Is Pangram
-3.
+
 </h2>
 
