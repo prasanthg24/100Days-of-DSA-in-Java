@@ -268,7 +268,7 @@ Assignment <br>
 
 </h2>
 
-h1> Day - 21 </h1>
+<h1> Day - 21 </h1>
 <h3> 01/02/2022 </h3>
 <h2>
 Assignment <br>
@@ -278,7 +278,7 @@ Assignment <br>
 
 
 
-h1> Day - 22 </h1>
+<h1> Day - 22 </h1>
 <h3> 05/02/2022 </h3>
 <h2>
 Assignment <br>
