@@ -277,7 +277,6 @@ Assignment <br>
 </h2>
 
 
-<<<<<<< HEAD
 h1> Day - 22 </h1>
 <h3> 05/02/2022 </h3>
 <h2>
@@ -286,6 +285,4 @@ Assignment <br>
 2. Check if the Sentence Is Pangram
 3.
 </h2>
-=======
 
->>>>>>> 331967212d8de19e5f4c97a6496faf53c9d9a375
