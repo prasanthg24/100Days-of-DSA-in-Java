@@ -268,7 +268,7 @@ Assignment <br>
 
 </h2>
 
-h1> Day - 21 </h1>
+<h1> Day - 21 </h1>
 <h3> 01/02/2022 </h3>
 <h2>
 Assignment <br>
@@ -277,12 +277,21 @@ Assignment <br>
 </h2>
 
 
-h1> Day - 22 </h1>
+<h1> Day - 22 </h1>
 <h3> 05/02/2022 </h3>
 <h2>
 Assignment <br>
-1. Create Target Array in the Given Order
+1. Create Target Array in the Given Order <br>
 2. Check if the Sentence Is Pangram
-3.
+
+</h2>
+
+<h1> Day - 23 </h1>
+<h3> 07/02/2022 </h3>
+<h2>
+Assignment <br>
+1. Kids With the Greatest Number of Candies
+2. 
+
 </h2>
 
