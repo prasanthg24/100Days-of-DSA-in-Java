@@ -301,7 +301,7 @@ Assignment <br>
 <h2>
 Assignment <br>
 1. Find the Highest Altitude<br>
-2. Flipping an Image
+2. Flipping an Image<br>
 3. Count Items Matching a Rule
 
 </h2>
