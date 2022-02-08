@@ -291,7 +291,16 @@ Assignment <br>
 <h2>
 Assignment <br>
 1. Kids With the Greatest Number of Candies
-2. 
 
 </h2>
 
+
+
+ <h1> Day - 24 </h1>
+<h3> 08/02/2022 </h3>
+<h2>
+Assignment <br>
+1.  Find the Highest Altitude
+
+
+</h2>
