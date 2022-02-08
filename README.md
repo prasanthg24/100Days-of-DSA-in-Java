@@ -251,7 +251,9 @@ Internal Representation of Array<br>
  Q1 : Swaping Values in an Array<br>
  Q2 : Maximum Value of an Array<br>
  Q3 : Reversing an Array<br>
+ 
  <h3> Assignment </h3>
+
  1. Two Sum <br>
 </h2>
 
@@ -302,6 +304,7 @@ Assignment <br>
 Assignment <br>
 1. Find the Highest Altitude<br>
 2. Flipping an Image<br>
-3. Count Items Matching a Rule
+3. Count Items Matching a Rule<br>
+4. Cells with Odd Values in a Matrix
 
 </h2>
