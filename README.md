@@ -300,7 +300,7 @@ Assignment <br>
 <h3> 08/02/2022 </h3>
 <h2>
 Assignment <br>
-1.  Find the Highest Altitude
-
+1. Find the Highest Altitude<br>
+2. Flipping an Image
 
 </h2>
