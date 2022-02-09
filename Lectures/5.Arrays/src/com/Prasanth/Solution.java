@@ -1,30 +1,42 @@
 package com.Prasanth;
-
+import java.util.*;
 class Solution
 {
 
     public static void main(String[] args) {
 
-        //boolean prasanth = checkIfPangram("prasanth");
-        System.out.println( checkIfPangram("thequickbrownfoxjumpsoverthelazydog\""));
+
+       int [] num ={1,2,0,0};
+        int k = 34;
+        addToArrayForm(num,k);
+
     }
 
 
 
-    public static boolean checkIfPangram(String sentence)
+        public static void addToArrayForm(int[] nums, int k) {
 
-    {
+            List<Integer> list=new ArrayList<>();
 
+            int i=nums.length-1;
 
-        for(char  c  = 'a' ; c <= 'z' ; c++)
-        {
-            if(!sentence.contains(String.valueOf(c)))
+            while(i>=0 || k>0)
             {
-                return false;
+                if(i>=0)
+                    k=k+nums[i];
+
+                list.add(k%10);
+
+                k/=10;
+                i--;
             }
 
-        }
-        return true;
 
-    }
+
+            System.out.println( list);
+            Collections.reverse(list);
+            System.out.println( list);
+
+        }
+
 }

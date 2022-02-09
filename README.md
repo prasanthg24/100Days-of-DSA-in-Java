@@ -314,8 +314,8 @@ Assignment <br>
 <h3> 09/02/2022 </h3>
 <h2>
 Assignment <br>
-1. Find Numbers with Even Number of Digits
+1.Find Numbers with Even Number of Digits
 2.Transpose Matrix
-3.
-4.
+3.Add to Array-Form of Integer
+4.Matrix Diagonal Sum
 </h2>
