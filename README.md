@@ -335,9 +335,15 @@ Assignment <br>
 </h2>
 
 
- <h1> Day - 28 </h1>
+<h1> Day - 28 </h1>
 <h3> 2/03/2022 </h3>
 <h2>
 Assignment <br>
 1.Determine Whether Matrix Can Be Obtained By Rotation
+</h2>
+<h1> Day - 30 </h1>
+<h3> 4/03/2022 </h3>
+<h2>
+Assignment <br>
+1.
 </h2>
